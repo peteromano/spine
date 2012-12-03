@@ -1,0 +1,17 @@
+{
+    "name": "spine",
+    "version": "1.0.8",
+    "description": "Jam package for Spine",
+    "jam": {
+        "main": "spine/lib/spine.js",
+        "include": [
+		"spine/lib/ajax.js",
+		"spine/lib/list.js",
+		"spine/lib/local.js",
+		"spine/lib/manager.js",
+		"spine/lib/relation.js",
+		"spine/lib/route.js",
+		"spine/lib/spine.js"
+	]
+    }
+}

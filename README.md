@@ -1,4 +1,4 @@
 spine
 =====
 
-Spine package for Jam
+Jam package for Spine
